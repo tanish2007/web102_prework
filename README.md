@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Watch the walkthrough video] https://www.loom.com/share/d31418cf67704ae481f650e0d4d8d3c1?sid=0819bfec-5287-44ae-a08e-b701a8b70943
+Watch the walkthrough video 
+https://www.loom.com/share/d31418cf67704ae481f650e0d4d8d3c1?sid=0819bfec-5287-44ae-a08e-b701a8b70943
 
 
 <!-- Replace this with whatever GIF tool you used! -->
